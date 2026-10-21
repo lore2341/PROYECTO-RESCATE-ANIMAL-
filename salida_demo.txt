@@ -1,0 +1,23 @@
+== 1. Reportar rescates ==
+Expediente creado: #1 Perro - Portoviejo, centro (Rescatado) | Vacunas y desparasitación
+[Ana] Nuevo rescate ingresado: #1 Perro - Portoviejo, centro (Rescatado)
+[Dr. Luis] Nuevo rescate ingresado: #1 Perro - Portoviejo, centro (Rescatado)
+Expediente creado: #2 Fauna Silvestre - Manta, Tarqui (Rescatado) | Aviso a autoridad ambiental; no apto para adopción
+[Ana] Nuevo rescate ingresado: #2 Fauna Silvestre - Manta, Tarqui (Rescatado)
+[Dr. Luis] Nuevo rescate ingresado: #2 Fauna Silvestre - Manta, Tarqui (Rescatado)
+
+== 2. Asignar responsable ==
+[Ana] Caso asignado: #1 Perro - Portoviejo, centro (Rescatado)
+[Dr. Luis] Caso asignado: #1 Perro - Portoviejo, centro (Rescatado)
+
+== 3. Cambios de estado ==
+[Ana] Cambio de estado: #1 Perro - Portoviejo, centro (En Tratamiento)
+[Dr. Luis] Cambio de estado: #1 Perro - Portoviejo, centro (En Tratamiento)
+ERROR: Transición inválida: En Tratamiento -> Adoptado
+[Ana] Cambio de estado: #2 Fauna Silvestre - Manta, Tarqui (En Tratamiento)
+[Dr. Luis] Cambio de estado: #2 Fauna Silvestre - Manta, Tarqui (En Tratamiento)
+ERROR: La fauna silvestre no puede ir a adopción
+
+--- Casos del refugio ---
+#1 Perro - Portoviejo, centro (En Tratamiento) | Responsable: Dr. Luis
+#2 Fauna Silvestre - Manta, Tarqui (En Tratamiento) | Responsable: sin asignar
